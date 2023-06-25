@@ -19,17 +19,28 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: red
-      accent: orange 
+      primary: pink
+      accent: pink 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: red
-      accent: orange
+      primary: pink
+      accent: pink
 nav:
-  - FYI: index.md
-  - Experiences Guide: ExperienceGuide.md
+  - About us: index.md
+  - Setting up Experiences: ExperienceGuide.md
   - FAQ: FAQS.md
+plugins:
+  - search
+  - social
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/creatorfy
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/mBrr52CDXu
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/creatorfy/
 copyright: |
-  &copy; 2023 <a href="https://linkedin.com/in/thelastsultan"  target="_blank" rel="noopener">RocketDevs Help</a>
+  &copy; 2023 <a href="https://creatorfy.com/"  target="_blank" rel="noopener">Creatorfy</a>

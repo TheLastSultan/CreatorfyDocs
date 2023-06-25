@@ -1,4 +1,4 @@
-# General Info
+# <center>General Info</center>
 
 ### **Who we are**
 We are a startup that launched earlier this year with the goal of enabling Creators to monetize by offering paid experiences and other engagements to their Fans.
@@ -10,6 +10,48 @@ Every day we are working to improve our site and increase our features. We have 
 Fans can buy paid experiences from Creators like Play a 1v1 game together, Participate in a rap battle contest, Paint and mail a custom painting, Meet for a step-by step tutorial, Sponsor 3 hours of a live novelty game playthrough, etc. We encourage you to get creative!  
 
 We even allow you to add you availability and Fan prerequisites for experiences that require your live presence so that you can skip all the back-and-forth coordination. 
+
+## <center>Only on Creatorfy:</center>  
+
+<br>
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); column-gap: 20px;">
+  <div>
+    <img src="assets/follower.png" alt="List & Sell Experience" style="max-width: 70px; margin-left: 50px;">
+    <h3>List & Sell Experience</h3>
+    <p>Connect with fans
+       authentically by offering
+       1:1 meetups. Sell custom
+       commissions or even
+       roasts. The choice is
+       yours!</p>
+  </div>
+  <div>
+    <img src="assets/donation.png" alt="Accept Donations" style="max-width: 75px; margin-left: 50px;">
+    <h3>Accept Donations</h3>
+    <p>Accept Donations from
+       Fans with a 0% Fee.</p>
+  </div>
+  <div>
+    <img src="assets/ad.png" alt="List & Sell Ad Space" style="max-width: 75px; margin-left: 50px;">
+    <h3>List & Sell Ad Space</h3>
+    <p>List and sell ad-space
+       directly to Brands.
+       Product placement in
+       itself is an incredibly
+       valuable service that
+       Brands pay thousands
+       for.</p>
+  </div>
+  <div>
+    <img src="assets/merch.png" alt="Design, List & Sell Merch" style="max-width: 75px; margin-left: 50px;">
+    <h3>Design, List & Sell Merch</h3>
+    <p>For the first time ever,
+       design, host, and sell
+       Merch without ever
+       needing to handle the
+       merch yourself.</p>
+  </div>
+</div>
 
 ### **How we're different**
 Our platform does not limit the types of experiences or tangible deliverables that you can sell. You make your own rules. Everything is a one-time purchase, no subscriptions.  
@@ -26,4 +68,4 @@ Because we just launched and are ramping up, our Creator sign-up process is curr
 3. Set up your Stripe credentials - this is how you get paid! To ensure maximum safety, we do not handle any payment information. We use Stripe for payment processing. You can read more about Stripe security here. 
 4. Once your paid experiences are up, we encourage you to share your Creatorfy page with your audience similarly to how you share your socials. Link it wherever you think your Fans will have visibility to it.
 
->If you need help setting up your paid experiences, click [here](FAQS.md) for the step-by-step instructions. 
+>If you need help setting up your paid experiences, click [here](ExperienceGuide.md) for the step-by-step instructions. 
