@@ -29,8 +29,8 @@ theme:
       accent: pink
 nav:
   - About us: index.md
-  - Setting up Experiences: ExperienceGuide.md
   - FAQ: FAQS.md
+  - Setting up Experiences: ExperienceGuide.md
 plugins:
   - search
   - social

@@ -11,48 +11,6 @@ Fans can buy paid experiences from Creators like Play a 1v1 game together, Parti
 
 We even allow you to add you availability and Fan prerequisites for experiences that require your live presence so that you can skip all the back-and-forth coordination. 
 
-## <center>Only on Creatorfy:</center>  
-
-<br>
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); column-gap: 20px;">
-  <div>
-    <img src="assets/follower.png" alt="List & Sell Experience" style="max-width: 70px; margin-left: 50px;">
-    <h3>List & Sell Experience</h3>
-    <p>Connect with fans
-       authentically by offering
-       1:1 meetups. Sell custom
-       commissions or even
-       roasts. The choice is
-       yours!</p>
-  </div>
-  <div>
-    <img src="assets/donation.png" alt="Accept Donations" style="max-width: 75px; margin-left: 50px;">
-    <h3>Accept Donations</h3>
-    <p>Accept Donations from
-       Fans with a 0% Fee.</p>
-  </div>
-  <div>
-    <img src="assets/ad.png" alt="List & Sell Ad Space" style="max-width: 75px; margin-left: 50px;">
-    <h3>List & Sell Ad Space</h3>
-    <p>List and sell ad-space
-       directly to Brands.
-       Product placement in
-       itself is an incredibly
-       valuable service that
-       Brands pay thousands
-       for.</p>
-  </div>
-  <div>
-    <img src="assets/merch.png" alt="Design, List & Sell Merch" style="max-width: 75px; margin-left: 50px;">
-    <h3>Design, List & Sell Merch</h3>
-    <p>For the first time ever,
-       design, host, and sell
-       Merch without ever
-       needing to handle the
-       merch yourself.</p>
-  </div>
-</div>
-
 ### **How we're different**
 Our platform does not limit the types of experiences or tangible deliverables that you can sell. You make your own rules. Everything is a one-time purchase, no subscriptions.  
 
